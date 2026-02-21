@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java-Mastery-main/Phase 1 - Setup &amp; Fundamentals/Day 1-2 Setup &amp; First Code/Day 1-2 Setup &amp; First Code.iml" filepath="$PROJECT_DIR$/Java-Mastery-main/Phase 1 - Setup &amp; Fundamentals/Day 1-2 Setup &amp; First Code/Day 1-2 Setup &amp; First Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Mastery-main/Phase 1 - Setup &amp; Fundamentals/Day 3-4 Core Operations/Day 3-4 Core Operations.iml" filepath="$PROJECT_DIR$/Java-Mastery-main/Phase 1 - Setup &amp; Fundamentals/Day 3-4 Core Operations/Day 3-4 Core Operations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Mastery-main/Phase 1 - Setup &amp; Fundamentals/Day 5-7 Control Flow/Day 5-7 Control Flow.iml" filepath="$PROJECT_DIR$/Java-Mastery-main/Phase 1 - Setup &amp; Fundamentals/Day 5-7 Control Flow/Day 5-7 Control Flow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-Mastery.iml" filepath="$PROJECT_DIR$/.idea/Java-Mastery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Mastery-main/Phase 2 - Arrays &amp; Math/Phase 2 - Arrays &amp; Math.iml" filepath="$PROJECT_DIR$/Java-Mastery-main/Phase 2 - Arrays &amp; Math/Phase 2 - Arrays &amp; Math.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Mastery-main/Phase 3 - Methods &amp; Collections/Phase 3 - Methods &amp; Collections.iml" filepath="$PROJECT_DIR$/Java-Mastery-main/Phase 3 - Methods &amp; Collections/Phase 3 - Methods &amp; Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Mastery-main/Phase 4 - OOP Quick/Phase 4 - OOP Quick.iml" filepath="$PROJECT_DIR$/Java-Mastery-main/Phase 4 - OOP Quick/Phase 4 - OOP Quick.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Mastery-main/Phase 5 - Exception Handling &amp; Extras/Phase 5 - Exception Handling &amp; Extras.iml" filepath="$PROJECT_DIR$/Java-Mastery-main/Phase 5 - Exception Handling &amp; Extras/Phase 5 - Exception Handling &amp; Extras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Mastery-main/Phase 6 - Advanced Topics/Phase 6 - Advanced Topics.iml" filepath="$PROJECT_DIR$/Java-Mastery-main/Phase 6 - Advanced Topics/Phase 6 - Advanced Topics.iml" />
+    </modules>
+  </component>
+</project>

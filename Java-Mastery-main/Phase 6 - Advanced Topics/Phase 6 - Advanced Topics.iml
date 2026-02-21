@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Week 7 Day 43-44 Lambda Expressions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 7 Day 45-46 Streams API" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 7 Day 47 Optional Class" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 7 Day 48 Method References" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Week 3 Day 15-16 Methods" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 3 Day 17-18 ArrayList &amp; LinkedList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 3 Day 19 HashMap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 3 Day 20 HashSet &amp; TreeSet" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 3 Day 21 Queue &amp; Stack" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 4 Day 22 PriorityQueue" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 4 Day 23 Collections Utility Class" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 4 Day 24 Comparator &amp; Comparable" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
