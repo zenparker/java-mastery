@@ -129,19 +129,20 @@ public class OptionalClass {
         System.out.println();
         
         // Program 8: Practical example - Safe division
-        System.out.println("Program 8 - Practical example - Safe division:");
-        
-        Optional<Double> result = safeDivide(10, 2);
-        System.out.println("10 / 2 = " + result.orElse(null));
-        
-        Optional<Double> result2 = safeDivide(10, 0);
-        System.out.println("10 / 0 = " + result2.orElse(null));
-        
-        result2.ifPresentOrElse(
-            valueResult -> System.out.println("Division successful: " + valueResult),
-            () -> System.out.println("Division failed - cannot divide by zero")
-        );
-        System.out.println();
+//        System.out.println("Program 8 - Practical example - Safe division:");
+//
+//        Optional<Double> result = safeDivide(10, 2);
+//        System.out.println("10 / 2 = " + result.orElse(null));
+//
+//        Optional<Double> result2;
+//        result2 = safeDivide(10, 0);
+//        System.out.println("10 / 0 = " + result2.orElse(null));
+//
+//        result2.ifPresentOrElse(
+//            valueResult -> System.out.println("Division successful: " + valueResult),
+//            () -> System.out.println("Division failed - cannot divide by zero")
+//        );
+//        System.out.println();
         
         // Program 9: Finding element in a collection safely
         System.out.println("Program 9 - Finding element in collection safely:");
@@ -212,8 +213,8 @@ public class OptionalClass {
     
     // Inner class for User example
     static class User {
-        private String name;
-        private String email;
+        private final String name;
+        private final String email;
         
         public User(String name, String email) {
             this.name = name;
