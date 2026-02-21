@@ -790,6 +790,7 @@ public class ExceptionHandling {
         System.out.println("  ✔ Processing: " + name.toUpperCase());
     }
 
+    @SuppressWarnings("unused")
     static void riskyOperation() {
         try {
             int x = 10 / 0;
@@ -818,6 +819,7 @@ public class ExceptionHandling {
         }
     }
 
+    @SuppressWarnings("unused")
     static void level3() {
         int x = 10 / 0;
     }
@@ -896,6 +898,7 @@ public class ExceptionHandling {
                 "No row found: SELECT * FROM users WHERE id=" + id);
     }
 
+    @SuppressWarnings("unused")
     static void operationWithInitCause() {
         RuntimeException ex = new RuntimeException("High-level failure");
         try {
@@ -924,6 +927,7 @@ public class ExceptionHandling {
                 "Connection timeout after 30s");
     }
 
+    @SuppressWarnings({ "unused", "null" })
     static void demonstrateUnchecked() {
         // NPE
         safeTry(() -> { String s = null; s.length(); },
