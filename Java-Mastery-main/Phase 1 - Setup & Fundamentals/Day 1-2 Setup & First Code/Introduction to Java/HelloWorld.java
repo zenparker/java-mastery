@@ -1,6 +1,6 @@
 /**
  * Hello World Program
- * 
+
  * The traditional first program when learning a new programming language.
  * This demonstrates the basic structure of a Java program.
  */
