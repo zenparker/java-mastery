@@ -203,6 +203,7 @@ public class OptionalClass {
     }
     
     // Safe integer parsing
+    @SuppressWarnings("UnnecessaryTemporaryOnConversionFromString")
     public static Optional<Integer> parseIntSafely(String str) {
         try {
             return Optional.of(Integer.parseInt(str));
