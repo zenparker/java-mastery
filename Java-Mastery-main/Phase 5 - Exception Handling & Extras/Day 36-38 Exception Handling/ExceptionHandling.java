@@ -1120,6 +1120,7 @@ class ServiceException2 extends RuntimeException {
 
 // ── FakeConnection ──
 class FakeConnection {
+    @SuppressWarnings("unused")
     String dsn;
     FakeConnection(String dsn) {
         this.dsn = dsn;
