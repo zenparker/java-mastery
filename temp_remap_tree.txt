@@ -1,0 +1,170 @@
+﻿Folder PATH listing for volume Parker Space
+Volume serial number is 0000007E 82E3:C908
+E:\CSE COLLECTION\3. PROGRAMMING LANGUAGES\JAVA\JAVA-MASTERY\JAVA-MASTERY-REMAP
+│   .gitkeep
+│   
+├───DSA Phase 1 - Foundation
+│   │   .gitkeep
+│   │   
+│   ├───Arrays
+│   │       .gitkeep
+│   │       
+│   ├───Hashing
+│   │       .gitkeep
+│   │       
+│   ├───Searching Algorithms
+│   │       .gitkeep
+│   │       
+│   ├───Sliding Window
+│   │       .gitkeep
+│   │       
+│   ├───Sorting Algorithms
+│   │       .gitkeep
+│   │       
+│   ├───Strings
+│   │       .gitkeep
+│   │       
+│   └───Two Pointer Technique
+│           .gitkeep
+│           
+├───DSA Phase 2 - Core Data Structures
+│   │   .gitkeep
+│   │   
+│   ├───Heap
+│   │       .gitkeep
+│   │       
+│   ├───Linked List
+│   │       .gitkeep
+│   │       
+│   ├───Matrix & Grid
+│   │       .gitkeep
+│   │       
+│   ├───Queue
+│   │       .gitkeep
+│   │       
+│   ├───Stack
+│   │       .gitkeep
+│   │       
+│   └───Tree
+│           .gitkeep
+│           
+├───DSA Phase 3 - Advanced
+│   │   .gitkeep
+│   │   
+│   ├───Backtracking
+│   │       .gitkeep
+│   │       
+│   ├───Dynamic Programming
+│   │       .gitkeep
+│   │       
+│   ├───Graph
+│   │       .gitkeep
+│   │       
+│   └───Greedy Algorithms
+│           .gitkeep
+│           
+├───Phase 1 - Setup & Fundamentals
+│   │   .gitkeep
+│   │   
+│   ├───Day 1-2 Setup & First Code
+│   │   │   .gitkeep
+│   │   │   
+│   │   ├───Basic Input Output
+│   │   │       .gitkeep
+│   │   │       
+│   │   ├───Introduction to Java
+│   │   │       .gitkeep
+│   │   │       
+│   │   └───Variables & Data Types
+│   │           .gitkeep
+│   │           
+│   ├───Day 3-4 Core Operations
+│   │   │   .gitkeep
+│   │   │   
+│   │   ├───Operators
+│   │   │       .gitkeep
+│   │   │       
+│   │   └───Type Conversion
+│   │           .gitkeep
+│   │           
+│   └───Day 5-7 Control Flow
+│       │   .gitkeep
+│       │   
+│       ├───Conditionals
+│       │       .gitkeep
+│       │       
+│       └───Loops
+│               .gitkeep
+│               
+├───Phase 2 - Arrays & Math
+│   │   .gitkeep
+│   │   
+│   ├───Day 11-12 Math Class
+│   │       .gitkeep
+│   │       
+│   ├───Day 13-14 Strings
+│   │       .gitkeep
+│   │       
+│   └───Day 8-10 Arrays
+│           .gitkeep
+│           
+├───Phase 3 - OOP Basics
+│   │   .gitkeep
+│   │   
+│   ├───Day 15-17 OOP Fundamentals
+│   │       .gitkeep
+│   │       
+│   └───Day 18-21 OOP Core Concepts
+│           .gitkeep
+│           
+├───Phase 4 - Methods & Collections
+│   │   .gitkeep
+│   │   
+│   ├───Day 22-23 Methods
+│   │       .gitkeep
+│   │       
+│   ├───Day 24-25 ArrayList & LinkedList
+│   │       .gitkeep
+│   │       
+│   ├───Day 26 HashMap
+│   │       .gitkeep
+│   │       
+│   ├───Day 27 HashSet & TreeSet
+│   │       .gitkeep
+│   │       
+│   ├───Day 28 Queue & Stack
+│   │       .gitkeep
+│   │       
+│   ├───Day 29 PriorityQueue
+│   │       .gitkeep
+│   │       
+│   ├───Day 30 Collections Utility Class
+│   │       .gitkeep
+│   │       
+│   └───Day 31 Comparator & Comparable
+│           .gitkeep
+│           
+├───Phase 5 - Exception Handling & Extras
+│   │   .gitkeep
+│   │   
+│   ├───Day 32-34 Exception Handling
+│   │       .gitkeep
+│   │       
+│   ├───Day 35-36 Bit Manipulation
+│   │       .gitkeep
+│   │       
+│   └───Day 37-38 Best Practices & Review
+│           .gitkeep
+│           
+└───Phase 6 - Recursion (Bridge to DSA)
+    │   .gitkeep
+    │   
+    ├───Day 39-40 Recursion Basics
+    │       .gitkeep
+    │       
+    ├───Day 41-42 Recursion Practice Problems
+    │       .gitkeep
+    │       
+    └───Day 43 Recursion with Arrays & Strings
+            .gitkeep
+            

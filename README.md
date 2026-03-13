@@ -8,7 +8,11 @@ This repository contains a structured curriculum designed to master Java program
 
 ## Repository Structure
 
-The project is organized into six main phases:
+This repository contains two main folder structures:
+
+### 1. Java-Mastery-main (Original Curriculum)
+
+The original six-phase curriculum covering Java fundamentals to advanced topics:
 
 ```
 Java-Mastery-main/
@@ -101,31 +105,136 @@ Java-Mastery-main/
         └── MethodReferences.java
 ```
 
-### Phase 1: Setup & Fundamentals
+### 2. Java-Mastery-ReMap (DSA-Optimized Curriculum)
+
+A restructured curriculum optimized for Data Structures and Algorithms (DSA) preparation. Key changes from the original:
+
+- **Phase 3 is now OOP Basics** — moved earlier to sit before Collections, not after
+- **Phase 6 is a brand new Recursion phase** — the bridge between Java and DSA (the missing piece in the original)
+- **Lambda/Streams removed** — not needed for DSA prep
+- **DSA phases added directly** — Foundation, Core Data Structures, and Advanced DSA topics live in one place
+- **Days are renumbered cleanly** — continuous flow without gaps
+
+```
+Java-Mastery-ReMap/
+├── DSA Phase 1 - Foundation/
+│   ├── Arrays/
+│   ├── Hashing/
+│   ├── Searching Algorithms/
+│   ├── Sliding Window/
+│   ├── Sorting Algorithms/
+│   ├── Strings/
+│   └── Two Pointer Technique/
+│
+├── DSA Phase 2 - Core Data Structures/
+│   ├── Heap/
+│   ├── Linked List/
+│   ├── Matrix & Grid/
+│   ├── Queue/
+│   ├── Stack/
+│   └── Tree/
+│
+├── DSA Phase 3 - Advanced/
+│   ├── Backtracking/
+│   ├── Dynamic Programming/
+│   ├── Graph/
+│   └── Greedy Algorithms/
+│
+├── Phase 1 - Setup & Fundamentals/
+│   ├── Day 1-2 Setup & First Code/
+│   │   ├── Basic Input Output/
+│   │   ├── Introduction to Java/
+│   │   └── Variables & Data Types/
+│   ├── Day 3-4 Core Operations/
+│   │   ├── Operators/
+│   │   └── Type Conversion/
+│   └── Day 5-7 Control Flow/
+│       ├── Conditionals/
+│       └── Loops/
+│
+├── Phase 2 - Arrays & Math/
+│   ├── Day 8-10 Arrays/
+│   ├── Day 11-12 Math Class/
+│   └── Day 13-14 Strings/
+│
+├── Phase 3 - OOP Basics/
+│   ├── Day 15-17 OOP Fundamentals/
+│   └── Day 18-21 OOP Core Concepts/
+│
+├── Phase 4 - Methods & Collections/
+│   ├── Day 22-23 Methods/
+│   ├── Day 24-25 ArrayList & LinkedList/
+│   ├── Day 26 HashMap/
+│   ├── Day 27 HashSet & TreeSet/
+│   ├── Day 28 Queue & Stack/
+│   ├── Day 29 PriorityQueue/
+│   ├── Day 30 Collections Utility Class/
+│   └── Day 31 Comparator & Comparable/
+│
+├── Phase 5 - Exception Handling & Extras/
+│   ├── Day 32-34 Exception Handling/
+│   ├── Day 35-36 Bit Manipulation/
+│   └── Day 37-38 Best Practices & Review/
+│
+└── Phase 6 - Recursion (Bridge to DSA)/
+    ├── Day 39-40 Recursion Basics/
+    ├── Day 41-42 Recursion Practice Problems/
+    └── Day 43 Recursion with Arrays & Strings/
+```
+
+### Original Curriculum Phases
+
+#### Phase 1: Setup & Fundamentals
 - Days 1-2: Setup & First Code
 - Days 3-4: Core Operations  
 - Days 5-7: Control Flow
 
-### Phase 2: Arrays & Math
+#### Phase 2: Arrays & Math
 - Days 8-10: Arrays
 - Days 11-12: Math Class
 - Days 13-14: Strings
 
-### Phase 3: Methods & Collections
+#### Phase 3: Methods & Collections
 - Week 3 (Days 15-21): Methods, ArrayList, LinkedList, HashMap, HashSet, TreeSet, Queue, Stack
 - Week 4 (Days 22-24): PriorityQueue, Collections Utility Class, Comparator & Comparable
 
-### Phase 4: OOP Quick
+#### Phase 4: OOP Quick
 - Days 29-31: OOP Basics
 - Days 32-35: OOP Core Concepts
 
-### Phase 5: Exception Handling & Extras
+#### Phase 5: Exception Handling & Extras
 - Days 36-38: Exception Handling
 - Days 39-40: Important Additions
 - Days 41-42: Best Practices & Review
 
-### Phase 6: Advanced Topics
+#### Phase 6: Advanced Topics
 - Week 7 (Days 43-48): Lambda Expressions, Streams API, Optional Class, Method References
+
+### DSA-Optimized Curriculum Phases
+
+#### Phase 1-2: Java Fundamentals (Days 1-14)
+Same as original: Setup, Core Operations, Control Flow, Arrays, Math, Strings
+
+#### Phase 3: OOP Basics (Days 15-21)
+Moved earlier: OOP Fundamentals and Core Concepts before Collections
+
+#### Phase 4: Methods & Collections (Days 22-31)
+Extended coverage: Methods, ArrayList, LinkedList, HashMap, HashSet, TreeSet, Queue, Stack, PriorityQueue, Collections Utility, Comparator & Comparable
+
+#### Phase 5: Exception Handling & Extras (Days 32-38)
+Exception Handling, Bit Manipulation, Best Practices & Review
+
+#### Phase 6: Recursion - Bridge to DSA (Days 39-43)
+**New Phase**: Recursion Basics, Practice Problems, Recursion with Arrays & Strings
+
+#### DSA Phase 1: Foundation
+Arrays, Hashing, Searching Algorithms, Sliding Window, Sorting Algorithms, Strings, Two Pointer Technique
+
+#### DSA Phase 2: Core Data Structures
+Heap, Linked List, Matrix & Grid, Queue, Stack, Tree
+
+#### DSA Phase 3: Advanced
+Backtracking, Dynamic Programming, Graph, Greedy Algorithms
 
 ## Learning Path
 
