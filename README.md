@@ -10,6 +10,97 @@ This repository contains a structured curriculum designed to master Java program
 
 The project is organized into six main phases:
 
+```
+Java-Mastery-main/
+├── FAAH.txt
+│
+├── Phase 1 - Setup & Fundamentals/
+│   ├── Day 1-2 Setup & First Code/
+│   │   ├── Day 1-2 Setup & First Code.iml
+│   │   ├── Basic Input Output/
+│   │   │   ├── BasicInputOutput.java
+│   │   │   └── Scannera_Methods.java
+│   │   ├── Introduction to Java/
+│   │   │   ├── HelloWorld.java
+│   │   │   └── IntroductionToJava.java
+│   │   └── Variables & Data Types/
+│   │       ├── VariablesAndDataTypes.java
+│   │       └── VariablesTypes.java
+│   │
+│   ├── Day 3-4 Core Operations/
+│   │   ├── Day 3-4 Core Operations.iml
+│   │   ├── Operators/
+│   │   │   └── OperatorsInJava.java
+│   │   └── Type Conversion/
+│   │       └── TypeConversion.java
+│   │
+│   └── Day 5-7 Control Flow/
+│       ├── Day 5-7 Control Flow.iml
+│       ├── Conditionals/
+│       │   └── ConditionalsInJava.java
+│       └── Loops/
+│           └── LoopsInJava.java
+│
+├── Phase 2 - Arrays & Math/
+│   ├── Phase 2 - Arrays & Math.iml
+│   ├── Day 8-10 Arrays/
+│   │   ├── ArraysClass.java
+│   │   ├── OneDimensionalArrays.java
+│   │   └── TwoDimensionalArrays.java
+│   ├── Day 11-12 Math Class/
+│   │   └── MathClass.java
+│   └── Day 13-14 Strings/
+│       ├── CharacterClass.java
+│       ├── StringBasics.java
+│       └── StringBuilderClass.java
+│
+├── Phase 3 - Methods & Collections/
+│   ├── Phase 3 - Methods & Collections.iml
+│   ├── Week 3 Day 15-16 Methods/
+│   │   └── MethodsInJava.java
+│   ├── Week 3 Day 17-18 ArrayList & LinkedList/
+│   │   └── ArrayListClass.java
+│   ├── Week 3 Day 19 HashMap/
+│   │   └── HashMapClass.java
+│   ├── Week 3 Day 20 HashSet & TreeSet/
+│   │   └── HashSetClass.java
+│   ├── Week 3 Day 21 Queue & Stack/
+│   │   ├── QueueAndStackClass.java
+│   │   └── QueueStackClass.java
+│   ├── Week 4 Day 22 PriorityQueue/
+│   │   └── PriorityQueueClass.java
+│   ├── Week 4 Day 23 Collections Utility Class/
+│   │   └── CollectionsUtilityClass.java
+│   └── Week 4 Day 24 Comparator & Comparable/
+│       └── ComparatorComparableClass.java
+│
+├── Phase 4 - OOP Quick/
+│   ├── Phase 4 - OOP Quick.iml
+│   ├── Day 29-31 OOP Basics/
+│   │   └── OOPBasics.java
+│   └── Day 32-35 OOP Core Concepts/
+│       └── OOPCoreConcepts.java
+│
+├── Phase 5 - Exception Handling & Extras/
+│   ├── Phase 5 - Exception Handling & Extras.iml
+│   ├── Day 36-38 Exception Handling/
+│   │   └── ExceptionHandling.java
+│   ├── Day 39-40 Important Additions/
+│   │   └── BitManipulation.java
+│   └── Day 41-42 Best Practices & Review/
+│
+└── Phase 6 - Advanced Topics/
+    ├── Phase 6 - Advanced Topics.iml
+    ├── Week 7 Day 43-44 Lambda Expressions/
+    │   └── LambdaExpressions.java
+    ├── Week 7 Day 45-46 Streams API/
+    │   └── StreamsAPI.java
+    ├── Week 7 Day 47 Optional Class/
+    │   └── OptionalClass.java
+    └── Week 7 Day 48 Method References/
+        └── MethodReferences.java
+```
+
 ### Phase 1: Setup & Fundamentals
 - Days 1-2: Setup & First Code
 - Days 3-4: Core Operations  
