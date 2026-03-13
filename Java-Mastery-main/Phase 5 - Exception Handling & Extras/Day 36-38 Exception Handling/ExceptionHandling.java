@@ -927,10 +927,10 @@ public class ExceptionHandling {
                 "Connection timeout after 30s");
     }
 
-    @SuppressWarnings({ "unused", "null" })
+    @SuppressWarnings({ "unused", "null", "UnnecessaryTemporaryOnConversionFromString" })
     static void demonstrateUnchecked() {
         // NPE
-        safeTry(() -> { String s = null; s.length(); },
+        safeTry(() -> { String s = null; @SuppressWarnings("null") int len = s.length(); },
                 "NullPointerException");
         // AIOOBE
         safeTry(() -> { int[] a = {1,2,3}; int x = a[5]; },

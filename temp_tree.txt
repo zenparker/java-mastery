@@ -1,0 +1,324 @@
+﻿Folder PATH listing for volume Parker Space
+Volume serial number is 0000006B 82E3:C908
+E:\CSE COLLECTION\3. PROGRAMMING LANGUAGES\JAVA\JAVA-MASTERY\JAVA-MASTERY-MAIN
+│   FAAH.txt
+│   
+├───Phase 1 - Setup & Fundamentals
+│   ├───Day 1-2 Setup & First Code
+│   │   │   Day 1-2 Setup & First Code.iml
+│   │   │   
+│   │   ├───Basic Input Output
+│   │   │       BasicInputOutput.class
+│   │   │       BasicInputOutput.java
+│   │   │       Scannera_Methods.class
+│   │   │       Scannera_Methods.java
+│   │   │       
+│   │   ├───Introduction to Java
+│   │   │       HelloWorld.java
+│   │   │       IntroductionToJava.class
+│   │   │       IntroductionToJava.java
+│   │   │       
+│   │   └───Variables & Data Types
+│   │           VariablesAndDataTypes.class
+│   │           VariablesAndDataTypes.java
+│   │           VariablesTypes.java
+│   │           
+│   ├───Day 3-4 Core Operations
+│   │   │   Day 3-4 Core Operations.iml
+│   │   │   
+│   │   ├───Operators
+│   │   │       OperatorsInJava.java
+│   │   │       
+│   │   └───Type Conversion
+│   │           TypeConversion.java
+│   │           
+│   └───Day 5-7 Control Flow
+│       │   Day 5-7 Control Flow.iml
+│       │   
+│       ├───Conditionals
+│       │       ConditionalsInJava.java
+│       │       
+│       └───Loops
+│               LoopsInJava.class
+│               LoopsInJava.java
+│               
+├───Phase 2 - Arrays & Math
+│   │   Phase 2 - Arrays & Math.iml
+│   │   
+│   ├───Day 11-12 Math Class
+│   │       MathClass.java
+│   │       
+│   ├───Day 13-14 Strings
+│   │       CharacterClass.java
+│   │       StringBasics.java
+│   │       StringBuilderClass.java
+│   │       
+│   └───Day 8-10 Arrays
+│           ArraysClass.java
+│           OneDimensionalArrays.java
+│           TwoDimensionalArrays.java
+│           
+├───Phase 3 - Methods & Collections
+│   │   Phase 3 - Methods & Collections.iml
+│   │   
+│   ├───Week 3 Day 15-16 Methods
+│   │       MethodsInJava.java
+│   │       
+│   ├───Week 3 Day 17-18 ArrayList & LinkedList
+│   │       ArrayListClass.java
+│   │       
+│   ├───Week 3 Day 19 HashMap
+│   │       HashMapClass.java
+│   │       
+│   ├───Week 3 Day 20 HashSet & TreeSet
+│   │       HashSetClass.java
+│   │       
+│   ├───Week 3 Day 21 Queue & Stack
+│   │       QueueAndStackClass.class
+│   │       QueueAndStackClass.java
+│   │       QueueStackClass.java
+│   │       
+│   ├───Week 4 Day 22 PriorityQueue
+│   │       PriorityQueueClass.java
+│   │       
+│   ├───Week 4 Day 23 Collections Utility Class
+│   │       CollectionsUtilityClass.class
+│   │       CollectionsUtilityClass.java
+│   │       GamePlayer.class
+│   │       Person.class
+│   │       Product.class
+│   │       Student2.class
+│   │       
+│   └───Week 4 Day 24 Comparator & Comparable
+│           Athlete.class
+│           Book.class
+│           ComparatorComparableClass$1.class
+│           ComparatorComparableClass.class
+│           ComparatorComparableClass.java
+│           Employee.class
+│           Flight.class
+│           Product.class
+│           Student.class
+│           
+├───Phase 4 - OOP Quick
+│   │   Phase 4 - OOP Quick.iml
+│   │   
+│   ├───Day 29-31 OOP Basics
+│   │       Animal.class
+│   │       BankAccount.class
+│   │       BankAccount2.class
+│   │       Book.class
+│   │       Builder.class
+│   │       Calculator.class
+│   │       Car.class
+│   │       Car2.class
+│   │       Cart.class
+│   │       CashPayment.class
+│   │       Cat.class
+│   │       Chargeable.class
+│   │       Circle.class
+│   │       CircleShape.class
+│   │       Config.class
+│   │       Counter.class
+│   │       CSVProcessor.class
+│   │       CurrentAccount.class
+│   │       DataProcessor.class
+│   │       Dog.class
+│   │       Drawable.class
+│   │       ElectricCar.class
+│   │       EProduct.class
+│   │       FinalDemo.class
+│   │       Flyable.class
+│   │       ImmutablePoint.class
+│   │       JSONProcessor.class
+│   │       Line.class
+│   │       MathUtils.class
+│   │       Movable.class
+│   │       OnlinePayment.class
+│   │       OOPBasics.class
+│   │       OOPBasics.java
+│   │       PaymentMethod.class
+│   │       Person.class
+│   │       Point.class
+│   │       Printer.class
+│   │       Product2.class
+│   │       Rect.class
+│   │       Robot.class
+│   │       SavingsAccount.class
+│   │       SchoolPerson.class
+│   │       SchoolStudent.class
+│   │       SecureAccount.class
+│   │       Shape.class
+│   │       Speakable.class
+│   │       SportsCar.class
+│   │       Square.class
+│   │       Student2.class
+│   │       Teacher.class
+│   │       Triangle.class
+│   │       Truck.class
+│   │       Validator.class
+│   │       Vehicle.class
+│   │       Vehicle2.class
+│   │       
+│   └───Day 32-35 OOP Core Concepts
+│           AbstractAnimal.class
+│           AbstractShape2.class
+│           AllInOne.class
+│           AllInOnePrinter.class
+│           Animal2.class
+│           AnimalFactory.class
+│           AuthPlugin.class
+│           Base.class
+│           Base2.class
+│           BaseProduct.class
+│           BaseShape.class
+│           Bird.class
+│           Box.class
+│           CachePlugin.class
+│           Camera.class
+│           Cat3b.class
+│           Cat4.class
+│           Charger.class
+│           Child2.class
+│           Circle2.class
+│           ColoredShape.class
+│           ConsoleLogger.class
+│           CreditCard.class
+│           Day.class
+│           DefaultObj.class
+│           DefensiveCopy.class
+│           Derived.class
+│           Describable.class
+│           DiamondC.class
+│           DispatchDemo.class
+│           Dog2.class
+│           Dog3.class
+│           DogFactory.class
+│           Drawable2.class
+│           EmailNotification.class
+│           ExcelReport.class
+│           Faxable.class
+│           FileLogger.class
+│           FilledCircle.class
+│           FilledRect.class
+│           FinalFieldDemo.class
+│           GenStack.class
+│           GenUtils.class
+│           GrandChild.class
+│           GrandParentCls.class
+│           Greeter.class
+│           HTMLReport.class
+│           ImmutableConfig.class
+│           InMemoryRepository.class
+│           InterfaceA.class
+│           InterfaceB.class
+│           LazyInit.class
+│           LicensedProduct.class
+│           Logger.class
+│           LoggingPlugin.class
+│           MathConst.class
+│           MetricsPlugin.class
+│           NetworkConn.class
+│           NotificationService.class
+│           OOPCoreConcepts$1.class
+│           OOPCoreConcepts$2.class
+│           OOPCoreConcepts$3.class
+│           OOPCoreConcepts$4.class
+│           OOPCoreConcepts.class
+│           OOPCoreConcepts.java
+│           Operation$1.class
+│           Operation$2.class
+│           Operation$3.class
+│           Operation$4.class
+│           Operation$5.class
+│           Operation$6.class
+│           Operation.class
+│           Order.class
+│           OrderStatus$1.class
+│           OrderStatus$2.class
+│           OrderStatus$3.class
+│           OrderStatus$4.class
+│           OrderStatus.class
+│           Outer$1LocalClass.class
+│           Outer$MemberInner.class
+│           Outer$StaticNested.class
+│           Outer.class
+│           OverriddenObj.class
+│           OverrideChild.class
+│           OverrideDemo.class
+│           Pair.class
+│           Parent2.class
+│           ParentCls.class
+│           Payment.class
+│           PDFReport.class
+│           Planet.class
+│           Plugin.class
+│           PowerSwitch.class
+│           Printable2.class
+│           Product3.class
+│           QueryBuilder.class
+│           Rectangle2.class
+│           Report.class
+│           Repository.class
+│           Scannable.class
+│           SecureData.class
+│           Shape2.class
+│           SmartDevice.class
+│           SmartPhone.class
+│           SMSNotification.class
+│           Speaker.class
+│           Student3.class
+│           Sub2.class
+│           SubSub2.class
+│           SuperChild.class
+│           SuperParent.class
+│           Transformer.class
+│           Triangle2.class
+│           UPI.class
+│           
+├───Phase 5 - Exception Handling & Extras
+│   │   Phase 5 - Exception Handling & Extras.iml
+│   │   
+│   ├───Day 36-38 Exception Handling
+│   │       AccessDeniedException.class
+│   │       ApiException.class
+│   │       AppException.class
+│   │       ATM.class
+│   │       BankAccount.class
+│   │       DataAccessException2.class
+│   │       ExceptionHandling.class
+│   │       ExceptionHandling.java
+│   │       FailingResource.class
+│   │       FakeConnection.class
+│   │       InsufficientFundsException.class
+│   │       InvalidAgeException.class
+│   │       ManagedResource.class
+│   │       NotFoundException.class
+│   │       ParsedRecord.class
+│   │       ParseException2.class
+│   │       Person2.class
+│   │       RestController.class
+│   │       ServiceException.class
+│   │       ServiceException2.class
+│   │       SQLException2.class
+│   │       StudentRegistry.class
+│   │       
+│   ├───Day 39-40 Important Additions
+│   │       BitManipulation.java
+│   │       
+│   └───Day 41-42 Best Practices & Review
+└───Phase 6 - Advanced Topics
+    │   Phase 6 - Advanced Topics.iml
+    │   
+    ├───Week 7 Day 43-44 Lambda Expressions
+    │       LambdaExpressions.java
+    │       
+    ├───Week 7 Day 45-46 Streams API
+    │       StreamsAPI.java
+    │       
+    ├───Week 7 Day 47 Optional Class
+    │       OptionalClass.java
+    │       
+    └───Week 7 Day 48 Method References
+            MethodReferences.java
+            

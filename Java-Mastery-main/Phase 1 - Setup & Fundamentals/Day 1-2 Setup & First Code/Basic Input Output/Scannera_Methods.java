@@ -40,6 +40,16 @@ public class Scannera_Methods {
         char c = sc.next().charAt(0);
         System.out.println("You entered: " + c);
 
+        // Reading a short
+        System.out.print("Enter a short: "); // Input is short like 10, 20, 30 etc. It will read the short value from the input.
+        short s = sc.nextShort();
+        System.out.println("You entered: " + s);
+
+       // Reading a byte
+        System.out.print("Enter a byte: "); // Input is byte like 10, 20, 30 etc. It will read the byte value from the input.
+        byte by = sc.nextByte();
+        System.out.println("You entered: " + by);
+
         // Reading a line of text
         System.out.print("Enter a line of text: "); // Input is string like Hello, World, Java etc. It will read the entire line until newline is encountered.
         sc.nextLine(); // Consume the newline left-over
